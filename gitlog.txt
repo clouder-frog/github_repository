@@ -1,5 +1,17 @@
- log :
+log :
+ operation:
  1. git config --global user.name"cloudersemi-frog"
  2. git config --global user.email"qing.sun@cloudersemi.com"
+ 
+ 3. create repository
+ 4. in local directory exe "git init"
 
- 3. in local directory exe "git init"
+ 5. git add filename                //multical call
+ 6. git commit -m "commemt"
+
+
+tip:
+ 1. no message is good message -- by unix
+ 2. git config --global core.autocrlf false
+
+
