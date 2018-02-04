@@ -1,0 +1,5 @@
+ log :
+ 1. git config --global user.name"cloudersemi-frog"
+ 2. git config --global user.email"qing.sun@cloudersemi.com"
+
+ 3. in local directory exe "git init"
