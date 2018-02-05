@@ -15,3 +15,8 @@ tip:
  2. git config --global core.autocrlf false
 
 
+test:
+ 1. git is a distributed version control system
+ 2. git is free software
+
+
