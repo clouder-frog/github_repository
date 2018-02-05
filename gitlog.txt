@@ -19,6 +19,7 @@ test:
  1. git is a distributed version control system
  2. git is free software
  3. git is free software distributed under the GPL
+ 4. git status && git statge
 
 my:
  1. git diff is before git add
