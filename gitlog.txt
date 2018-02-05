@@ -20,4 +20,7 @@ test:
  2. git is free software
  3. git is free software distributed under the GPL
 
+my:
+ 1. git diff is before git add
+
 
