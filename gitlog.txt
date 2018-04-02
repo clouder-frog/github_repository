@@ -8,6 +8,10 @@
 
  5. git add filename                //multical call
  6. git commit -m "commemt"
+ 
+ 7. test git statge (1) touch a new file "test_statgeOrindex.txt"
+                    (2) modify "gitlog.txt"
+                    (3) git status -> git add -> git status
 
 
 tip:
@@ -16,10 +20,10 @@ tip:
 
 
 test:
- 1. git is a distributed version control system
- 2. git is free software
- 3. git is free software distributed under the GPL
- 4. git status && git statge
+ //1. git is a distributed version control system
+ //2. git is free software
+ //3. git is free software distributed under the GPL
+ //4. git status && git statge
 
 my:
  1. git diff is before git add
