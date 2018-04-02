@@ -1,0 +1,2 @@
+1. test git in linux
+2. test git user && password
