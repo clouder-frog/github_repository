@@ -12,6 +12,8 @@
  7. test git statge (1) touch a new file "test_statgeOrindex.txt"
                     (2) modify "gitlog.txt"
                     (3) git status -> git add -> git status
+                    
+ 8. git commit -a -m"can not handle untracked file"
 
 
 tip:
