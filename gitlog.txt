@@ -14,6 +14,7 @@
                     (3) git status -> git add -> git status
                     
  8. git commit -a -m"can not handle untracked file"
+ 
 
 
 tip:
