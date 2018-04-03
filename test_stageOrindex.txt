@@ -1,0 +1,19 @@
+ -- two condition
+ 1. modify a file then git checkout. the file recovery
+
+ 2. modify a file then git add, then git checkout, the file can't recovery.
+
+ 
+ 3. this line is not add to stage, so we can test git diff
+ (1) compare with repository
+ (2) compare with stage
+
+
+ summary:
+  2 -- because: git checkout is refer to stage
+  3 -- (2) default compare with stage
+
+  3 -- (1) git diff head -- xxx.txt // working directory && the newest version in respository
+
+
+  git add .
