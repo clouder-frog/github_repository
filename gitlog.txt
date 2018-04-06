@@ -27,6 +27,7 @@ test:
  //2. git is free software
  //3. git is free software distributed under the GPL
  //4. git status && git statge
+ //5. test language (1) nodepad++使用中文编译 (2) git log 使用中文comment
 
 my:
  1. git diff is before git add
@@ -62,10 +63,3 @@ when execute git add command：
             modified:   git_in_linux.txt  /// green color
 2. git diff
    /// nothing
-
-
-
-
-
-
-
